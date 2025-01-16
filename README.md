@@ -1,0 +1,1 @@
+This repository demonstrates a common TypeScript error involving extra properties in objects passed to functions. The `bug.ts` file shows the code that produces the error.  The `bugSolution.ts` provides a solution using type assertion or optional properties.
